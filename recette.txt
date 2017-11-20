@@ -3,4 +3,8 @@ huile d'olive
 sel
 poivre
 vinaigre
+<<<<<<< HEAD
 croutons
+=======
+chevre
+>>>>>>> experimenter
