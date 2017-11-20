@@ -3,8 +3,9 @@ huile d'olive
 sel
 poivre
 vinaigre
-<<<<<<< HEAD
 croutons
-=======
 chevre
->>>>>>> experimenter
+betterave
+mozzarella
+carottes
+
